@@ -1,4 +1,5 @@
-# SE-LAB-PROJECT
+# Software Engineering LAB Term Project
+# Topic: Online Medical Cosultation System
 
 ## Demo
 
